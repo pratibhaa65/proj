@@ -1,1 +1,4 @@
 myenv/
+movierecommendation/similarity.pkl
+movierecommendation/movies_dict.pkl
+myenv/
